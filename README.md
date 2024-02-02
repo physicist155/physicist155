@@ -16,7 +16,7 @@
 </h1>
 
 ### 👨‍🔬 About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a physics undergrad student from Brazil.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -37,6 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   </div>
+  
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=physicist155&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
