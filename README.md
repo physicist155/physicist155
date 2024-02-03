@@ -39,8 +39,6 @@ I am a physics undergrad student from Brazil.
   </div>
   
 ---
-<div align = "center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=physicist155&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=physicist155&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
