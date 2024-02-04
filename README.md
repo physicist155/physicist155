@@ -24,6 +24,7 @@ I am a physics undergrad student from Brazil.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [My Email](mailto:henriquetx13@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:henriquetx13@gmail.com)
 
   ---
 
