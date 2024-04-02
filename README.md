@@ -17,9 +17,9 @@
 
 ### 👨‍🔬 About Me :
 I am a physics undergrad student from Brazil.
-- 💻 I’m currently enrolled in a data science internship in Vivo Telefonica.
+- 💻 I’m currently enrolled in a Human Resources internship in Vivo Telefonica.
 
-- 🔎 Also, I'm interested in Radiation and Nuclear sciences.
+- 🔎 Also, I'm interested in ... Well, that's a good question!
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:henriquetx13@gmail.com)
 
