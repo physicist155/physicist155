@@ -17,7 +17,7 @@
 
 ### 👨‍🔬 About Me :
 I am a physics undergrad student from Brazil.
-- 💻 I’m currently enrolled in a Human Resources internship in Vivo Telefonica.
+- 💻 I’m currently enrolled in a Undergrad Research Project in LFA-USP.
 
 - 🔎 Also, I'm interested in ... Well, that's a good question!
 
